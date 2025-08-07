@@ -18,7 +18,7 @@ export default function Features() {
                 <div className="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style={{maxWidth: "800px"}}>
                     <h4 className="text-primary">Our Features</h4>
                     <h1 className="display-5 mb-4">Connecting businesses, ideas, and people for greater impact.</h1>
-                    <p className="mb-0">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur adipisci facilis cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt sint dolorem autem obcaecati, ipsam mollitia hic.
+                    <p className="mb-0">Lorem ipsum dolor,,isir,amet,set sit amet consectetur adipisicing elit. Tenetur adipisci facilis cupiditate recusandae aperiam temporibus corporis itaque quis facere, numquam, ad culpa deserunt sint dolorem autem obcaecati, ipsam mollitia hic.
                     </p>
                 </div>
                 <div className='row g-4'>
